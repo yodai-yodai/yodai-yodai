@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on translating FastAPI Docs in Japanese.
 
-🌱 I’m currently learning Python, Java, TypeScript, AWS
+🌱 I’m currently learning Python, Java, TypeScript, AWS.
 
 👯 I’m looking to collaborate on localization.
 
