@@ -6,6 +6,9 @@
 
 👯 I’m looking to collaborate on localization.
 
+📫 How to reach me:
+* Twitter [@yodai_u_u](https://x.com/yoda_i_u_u)
+
 ---
 
 I work at a software development company.
