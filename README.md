@@ -1,4 +1,11 @@
-## Hi there 👋
+## Meow!! I'm [@yodai_u_u](https://x.com/yoda_i_u_u) 😸
+
+I'm software developer.
+
+I work at a software development company.
+
+I live in Japan.
+I can read and write a little Japanese.
 
 <!--
 **yodai-yodai/yodai-yodai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
