@@ -4,7 +4,7 @@
 
 👯 I’m looking to collaborate on localization.
 
-🔭 I’m currently working on translating FastAPI Docs in Japanese.
+🔭 I’m currently working on translating FastAPI Docs to Japanese.
 
 📫 How to reach me:
 * Twitter [@yodai_u_u](https://x.com/yoda_i_u_u)
