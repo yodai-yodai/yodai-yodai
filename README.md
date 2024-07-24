@@ -11,13 +11,7 @@
 
 ---
 
-I work at a software development company.
-
-I live in Japan.
-
-私はとあるソフトウェア開発会社に勤務しています。
-
-私は日本に住んでいます。
+I'm a software developer.
 
 ---
 
