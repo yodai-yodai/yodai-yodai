@@ -1,10 +1,10 @@
 ## Meow!! I'm [@yodai_u_u](https://x.com/yoda_i_u_u) ! 😸
 
-🔭 I’m currently working on translating FastAPI Docs in Japanese.
-
 🌱 I’m currently learning Python, Java, TypeScript, AWS.
 
 👯 I’m looking to collaborate on localization.
+
+🔭 I’m currently working on translating FastAPI Docs in Japanese.
 
 📫 How to reach me:
 * Twitter [@yodai_u_u](https://x.com/yoda_i_u_u)
