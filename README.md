@@ -2,16 +2,16 @@
 
 🌱 I’m currently learning Python, Java, TypeScript, AWS.
 
-👯 I’m looking to collaborate on localization.
+👯 I’m looking to collaborate on translation to Japanese. 
 
-🔭 I’m currently working on translating FastAPI Docs to Japanese.
+🔭 I’m currently working on translating FastAPI tutoreal docs to Japanese.
 
 📫 How to reach me:
 * Twitter [@yodai_u_u](https://x.com/yoda_i_u_u)
 
 ---
 
-I'm a software developer.
+😸 https://github.com/yodai-yodai/fastapi-fork/tree/translation-ja-working ブランチに、PRした日本語訳を置いていっています。
 
 ---
 
