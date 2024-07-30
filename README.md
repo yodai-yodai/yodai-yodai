@@ -11,7 +11,9 @@
 
 ---
 
-😸 https://github.com/yodai-yodai/fastapi-fork/tree/translation-ja-working ブランチに、PRした日本語訳を置いていっています。
+😸 https://github.com/yodai-yodai/fastapi-fork/tree/translation-ja-working ブランチに、FastAPIにPRした日本語訳を置いていっています。
+
+😸 https://github.com/yodai-yodai/translated に、興味あるオープンソースのプロジェクトのドキュメントの私家版の日本語ほんやくを置いていってます。
 
 ---
 
