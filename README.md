@@ -13,8 +13,6 @@
 
 😸 https://github.com/yodai-yodai/fastapi-fork/tree/translation-ja-working ブランチに、FastAPIにPRした日本語訳を置いていっています。
 
-😸 https://github.com/yodai-yodai/translated に、興味あるオープンソースのプロジェクトのドキュメントの日本語翻訳の私家版を置いていってます。
-
 ---
 
 吾輩は猫であるため、普段は人間のふりをしています。
